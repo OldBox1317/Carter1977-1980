@@ -255,8 +255,18 @@ jet_data = {
     "gameTitle": "A Leader, For A Change"
 }
 
-//#startcode
+campaignTrail_temp.modBoxTheme = {
+    "header_color": "#633e22",
+    "header_image_url": "https://file.garden/aQrk4ZgQJCx_hnkl/Carter1980/header",
+    "header_text_color": "#f9f1f1",
+    "description_text_color": "#000000",
+    "description_background_color": "#633e22",
+    "main_color": "#633e22",
+    "secondary_color": "#c47d5c",
+    "ui_text_color": "#a25428"
+}
 
+//#startcode
 
 corrr = '\n              <h2>A Leader, For A Change</h2>\n            ';
 
